@@ -4,7 +4,7 @@
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:171126,50:4B267A,100:CB5B9C&height=180&section=header&text=KAVERI%20MESHRAM&fontSize=42&fontColor=F8E9FF&fontAlignY=38&desc=BUILDING%20AT%20THE%20INTERSECTION%20OF%20AI%20%26%20WEB3&descSize=12&descAlignY=60&animation=twinkling" alt="Kaveri Meshram header" />
 
-### \`> hello_world();\`
+### `> hello_world();`
 
 **AI + Web3 Developer · Full-Stack Builder · Hackathon Enthusiast**
 
@@ -17,9 +17,9 @@ Currently exploring AI agents, blockchain infrastructure, and thoughtful develop
 
 ---
 
-## \`01 / about_me\`
+## `01 / about_me`
 
-\`\`\`text
+```text
 ┌─────────────────────────────────────────────────────────────┐
 │  WHOAMI                                                     │
 ├─────────────────────────────────────────────────────────────┤
@@ -29,13 +29,13 @@ Currently exploring AI agents, blockchain infrastructure, and thoughtful develop
 │  mindset    : Learn → Build → Ship → Repeat                  │
 │  status     : Always building something                     │
 └─────────────────────────────────────────────────────────────┘
-\`\`\`
+```
 
 - Building AI-powered applications and agent workflows.
 - Exploring smart contracts, on-chain systems, and Web3 infrastructure.
 - Learning by shipping projects and collaborating at hackathons.
 
-## \`02 / tech_stack\`
+## `02 / tech_stack`
 
 <div align="center">
 
@@ -53,7 +53,7 @@ Currently exploring AI agents, blockchain infrastructure, and thoughtful develop
 
 </div>
 
-## \`03 / selected_builds\`
+## `03 / selected_builds`
 
 | Project | What I'm building |
 | --- | --- |
@@ -68,7 +68,7 @@ Currently exploring AI agents, blockchain infrastructure, and thoughtful develop
 | [Hermes Agent](https://github.com/kaverimeshram/hermes-agent) | Agent-focused experimentation |
 | [Recover](https://github.com/kaverimeshram/Recover) | Current project repository |
 
-## \`04 / github_activity\`
+## `04 / github_activity`
 
 <div align="center">
 
@@ -79,15 +79,15 @@ Currently exploring AI agents, blockchain infrastructure, and thoughtful develop
 
 </div>
 
-## \`05 / currently\`
+## `05 / currently`
 
-\`\`\`bash
+```bash
 $ focus --now
 > building AI + Web3 projects
 > exploring autonomous agents
 > learning Rust and smart contract development
 > participating in hackathons
-\`\`\`
+```
 
 <div align="center">
 
