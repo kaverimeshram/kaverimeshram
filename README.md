@@ -1,98 +1,91 @@
-<!-- Retro terminal-inspired GitHub profile -->
+<!-- Retro / pixel terminal-inspired profile README -->
 
 <div align="center">
 
-<img width="100%" src="./assets/profile-header.svg" alt="Kaveri Meshram profile header" />
+<img src="./assets/retro-computer.webp" alt="Retro-futuristic computer artwork" width="100%" />
 
-### `> hello_world();`
+# Kaveri
 
-**AI + Web3 Developer · Full-Stack Builder · Hackathon Enthusiast**
+**Full-Stack Developer · AI & Web3 Builder**
 
-I build products where intelligent systems meet decentralized technology.  
-Currently exploring AI agents, blockchain infrastructure, and thoughtful developer experiences.
+<br/>
 
-[![GitHub](https://img.shields.io/badge/GitHub-kaverimeshram-21152F?style=flat-square&logo=github&logoColor=F5D7FF)](https://github.com/kaverimeshram)
+<table>
+  <tr>
+    <td align="center" width="110">
+      <img src="./assets/pixel-mascot.svg" width="76" alt="Pixel mascot" />
+    </td>
+    <td>
+      <pre>
+ _   _      _ _        __        __         _     _ _
+| | | | ___| | | ___   \ \      / /__  _ __| | __| |
+| |_| |/ _ \ | |/ _ \   \ \ /\ / / _ \| '__| |/ _` |
+|  _  |  __/ | | (_) |   \ V  V / (_) | |  | | (_| |
+|_| |_|\___|_|_|\___/     \_/\_/ \___/|_|  |_|\__,_|
+      </pre>
+    </td>
+  </tr>
+</table>
+
+<sub>✦ system online — welcome ✦</sub>
 
 </div>
 
 ---
 
-## `01 / about_me`
+## whoami
 
-```text
-┌─────────────────────────────────────────────────────────────┐
-│  WHOAMI                                                     │
-├─────────────────────────────────────────────────────────────┤
-│  name       : Kaveri Meshram                                │
-│  focus      : AI • Web3 • Full-Stack Development            │
-│  interests  : Agents, Blockchain, Open Source, Hackathons    │
-│  mindset    : Learn → Build → Ship → Repeat                  │
-│  status     : Always building something                     │
-└─────────────────────────────────────────────────────────────┘
-```
+I'm Kaveri, a developer interested in building full-stack products, AI-powered applications, and Web3 systems. I enjoy taking ideas from a rough concept to a working product, experimenting with new technologies, and learning by building.
 
-- Building AI-powered applications and agent workflows.
-- Exploring smart contracts, on-chain systems, and Web3 infrastructure.
-- Learning by shipping projects and collaborating at hackathons.
+Currently exploring **AI agents, blockchain infrastructure, smart contracts, and developer tools**.
 
-## `02 / tech_stack`
+---
+
+## tech stack
 
 <div align="center">
 
-![TypeScript](https://img.shields.io/badge/TypeScript-21152F?style=for-the-badge&logo=typescript&logoColor=CB9BFF)
-![JavaScript](https://img.shields.io/badge/JavaScript-21152F?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
-![Python](https://img.shields.io/badge/Python-21152F?style=for-the-badge&logo=python&logoColor=9BCAFF)
-![Rust](https://img.shields.io/badge/Rust-21152F?style=for-the-badge&logo=rust&logoColor=F5D7FF)
-![Solidity](https://img.shields.io/badge/Solidity-21152F?style=for-the-badge&logo=solidity&logoColor=CB9BFF)
+![TypeScript](https://img.shields.io/badge/TypeScript-171522?style=flat-square&logo=typescript&logoColor=9B7CFF)
+![JavaScript](https://img.shields.io/badge/JavaScript-171522?style=flat-square&logo=javascript&logoColor=F7DF1E)
+![Python](https://img.shields.io/badge/Python-171522?style=flat-square&logo=python&logoColor=9BCBFF)
+![Rust](https://img.shields.io/badge/Rust-171522?style=flat-square&logo=rust&logoColor=F5D7FF)
+![Solidity](https://img.shields.io/badge/Solidity-171522?style=flat-square&logo=solidity&logoColor=CB9BFF)
 
-![React](https://img.shields.io/badge/React-21152F?style=for-the-badge&logo=react&logoColor=80DEFF)
-![Next.js](https://img.shields.io/badge/Next.js-21152F?style=for-the-badge&logo=nextdotjs&logoColor=FFFFFF)
-![Node.js](https://img.shields.io/badge/Node.js-21152F?style=for-the-badge&logo=nodedotjs&logoColor=8BCF9B)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-21152F?style=for-the-badge&logo=postgresql&logoColor=9BCBFF)
-![Docker](https://img.shields.io/badge/Docker-21152F?style=for-the-badge&logo=docker&logoColor=80DEFF)
+![React](https://img.shields.io/badge/React-171522?style=flat-square&logo=react&logoColor=80DEFF)
+![Next.js](https://img.shields.io/badge/Next.js-171522?style=flat-square&logo=nextdotjs&logoColor=FFFFFF)
+![Node.js](https://img.shields.io/badge/Node.js-171522?style=flat-square&logo=nodedotjs&logoColor=8BCF9B)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-171522?style=flat-square&logo=postgresql&logoColor=9BCBFF)
+![Docker](https://img.shields.io/badge/Docker-171522?style=flat-square&logo=docker&logoColor=80DEFF)
 
 </div>
 
-## `03 / selected_builds`
+---
 
-| Project | What I'm building |
+## things i've built
+
+| Project | Description |
 | --- | --- |
 | [Hunch](https://github.com/kaverimeshram/hunch) | Evidence-focused product development |
 | [TerraLens](https://github.com/kaverimeshram/terralens) | Satellite and spatial intelligence |
-| [PlantLensAI](https://github.com/kaverimeshram/PlantLensAI) | AI-powered plant identification and diagnosis |
+| [PlantLens AI](https://github.com/kaverimeshram/PlantLensAI) | AI-powered plant identification and diagnosis |
 | [Kept](https://github.com/kaverimeshram/kept) | Social trading accountability |
 | [PACT](https://github.com/kaverimeshram/pact) | Persistent commitments and reputation for agents |
 | [Warden](https://github.com/kaverimeshram/Warden-) | Autonomous treasury agent |
 | [feeMON](https://github.com/kaverimeshram/FeeMon-) | Liquid staking on Monad |
-| [GroupPot](https://github.com/kaverimeshram/Grouppot) | Group-based savings concept |
-| [Hermes Agent](https://github.com/kaverimeshram/hermes-agent) | Agent-focused experimentation |
-| [Recover](https://github.com/kaverimeshram/Recover) | Current project repository |
 
-## `04 / github_activity`
+---
 
-<div align="center">
+## currently
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=kaverimeshram&show_icons=true&hide_border=true&bg_color=0D0B12&title_color=CB9BFF&icon_color=E58BCB&text_color=E9DDF2&ring_color=CB9BFF" alt="GitHub stats" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kaverimeshram&layout=compact&hide_border=true&bg_color=0D0B12&title_color=CB9BFF&text_color=E9DDF2" alt="Top languages" />
-
-<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=kaverimeshram&bg_color=0D0B12&color=E9DDF2&line=CB9BFF&point=E58BCB&area=true&hide_border=true" alt="Contribution activity graph" />
-
-</div>
-
-## `05 / currently`
-
-```bash
-$ focus --now
+```text
 > building AI + Web3 projects
-> exploring autonomous agents
+> experimenting with autonomous agents
 > learning Rust and smart contract development
-> participating in hackathons
+> joining hackathons and open-source projects
 ```
 
+---
+
 <div align="center">
-
-<sub>━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━</sub>
-
-<sub>「 stay curious. keep building. 」</sub>
-
+  <sub>made with curiosity, late nights, and a terminal window ✦</sub>
 </div>
