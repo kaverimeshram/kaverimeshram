@@ -2,7 +2,7 @@
 
 <div align="center">
 
-# Kaveri Meshram
+# Kaveri
 
 **Full-Stack Developer · AI Builder · Web3 Explorer**
 
