@@ -1,105 +1,110 @@
-<!-- Profile README: retro terminal / pixel-art layout -->
+<!--
+  Kaveri Meshram | GitHub profile README
+  Visual direction: dark graphite + rose pink + pixel terminal
+-->
 
 <div align="center">
 
-# Kaveri
-
-**Full-Stack Developer · AI Builder · Web3 Explorer**
+<img src="./assets/hero-pink.svg" alt="Kaveri - Full-Stack Developer, AI Builder, Web3 Explorer" width="100%" />
 
 <br/>
 
-<table>
-  <tr>
-    <td align="center" width="116">
-      <img src="./assets/pixel-mascot.svg" width="88" alt="Pixel character" />
-    </td>
-    <td align="center">
-      <pre>
- _   _      _ _        __        __         _     _ _
-| | | | ___| | | ___   \ \      / /__  _ __| | __| |
-| |_| |/ _ \ | |/ _ \   \ \ /\ / / _ \| '__| |/ _` |
-|  _  |  __/ | | (_) |   \ V  V / (_) | |  | | (_| |
-|_| |_|\___|_|_|\___/     \_/\_/ \___/|_|  |_|\__,_|
-      </pre>
-    </td>
-  </tr>
-</table>
+<img src="./assets/hello-world-pink.svg" alt="Hello World pixel-art welcome panel" width="74%" />
 
-<sub>✦ system online — welcome_ ✦</sub>
+<br/>
+
+<sub><b>● system online — welcome_</b></sub>
 
 </div>
 
----
+<br/>
+
+<div align="center">
+<img src="./assets/pink-divider.svg" width="100%" alt="" />
+</div>
 
 ## whoami
 
-I'm Kaveri Meshram - a full-stack developer interested in AI, blockchain, and building useful products. I enjoy turning ideas into working applications, experimenting with new technologies, and learning by shipping projects.
+I'm **Kaveri Meshram** - a full-stack developer, AI builder, and Web3 enthusiast. I build scalable products, explore agentic systems, and participate in hackathons. I enjoy turning ideas into real-world applications, experimenting with new tools, and learning in public.
 
-Currently exploring **AI agents, Web3 infrastructure, smart contracts, and open-source development**.
+<br/>
 
----
+<div align="center">
+<img src="./assets/pink-divider.svg" width="58%" alt="" />
+</div>
 
 ## tech stack
 
 <div align="center">
 
-![JavaScript](https://img.shields.io/badge/JavaScript-171522?style=flat-square&logo=javascript&logoColor=F7DF1E)
-![TypeScript](https://img.shields.io/badge/TypeScript-171522?style=flat-square&logo=typescript&logoColor=9B7CFF)
-![Python](https://img.shields.io/badge/Python-171522?style=flat-square&logo=python&logoColor=9BCBFF)
-![Rust](https://img.shields.io/badge/Rust-171522?style=flat-square&logo=rust&logoColor=F5D7FF)
-![Solidity](https://img.shields.io/badge/Solidity-171522?style=flat-square&logo=solidity&logoColor=CB9BFF)
+![JavaScript](https://img.shields.io/badge/JavaScript-0D1117?style=flat-square&logo=javascript&logoColor=FF80B8)
+![TypeScript](https://img.shields.io/badge/TypeScript-0D1117?style=flat-square&logo=typescript&logoColor=FF80B8)
+![Python](https://img.shields.io/badge/Python-0D1117?style=flat-square&logo=python&logoColor=FF80B8)
+![Rust](https://img.shields.io/badge/Rust-0D1117?style=flat-square&logo=rust&logoColor=FF80B8)
+![Solidity](https://img.shields.io/badge/Solidity-0D1117?style=flat-square&logo=solidity&logoColor=FF80B8)
 
-![React](https://img.shields.io/badge/React-171522?style=flat-square&logo=react&logoColor=80DEFF)
-![Next.js](https://img.shields.io/badge/Next.js-171522?style=flat-square&logo=nextdotjs&logoColor=FFFFFF)
-![Node.js](https://img.shields.io/badge/Node.js-171522?style=flat-square&logo=nodedotjs&logoColor=8BCF9B)
-![Express](https://img.shields.io/badge/Express-171522?style=flat-square&logo=express&logoColor=FFFFFF)
-![FastAPI](https://img.shields.io/badge/FastAPI-171522?style=flat-square&logo=fastapi&logoColor=8BCF9B)
+![React](https://img.shields.io/badge/React-0D1117?style=flat-square&logo=react&logoColor=FF80B8)
+![Next.js](https://img.shields.io/badge/Next.js-0D1117?style=flat-square&logo=nextdotjs&logoColor=FF80B8)
+![Node.js](https://img.shields.io/badge/Node.js-0D1117?style=flat-square&logo=nodedotjs&logoColor=FF80B8)
+![Express](https://img.shields.io/badge/Express-0D1117?style=flat-square&logo=express&logoColor=FF80B8)
+![FastAPI](https://img.shields.io/badge/FastAPI-0D1117?style=flat-square&logo=fastapi&logoColor=FF80B8)
 
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-171522?style=flat-square&logo=postgresql&logoColor=9BCBFF)
-![Prisma](https://img.shields.io/badge/Prisma-171522?style=flat-square&logo=prisma&logoColor=FFFFFF)
-![MongoDB](https://img.shields.io/badge/MongoDB-171522?style=flat-square&logo=mongodb&logoColor=8BCF9B)
-![Docker](https://img.shields.io/badge/Docker-171522?style=flat-square&logo=docker&logoColor=80DEFF)
-![PostGIS](https://img.shields.io/badge/PostGIS-171522?style=flat-square&logo=postgresql&logoColor=9BCBFF)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-0D1117?style=flat-square&logo=postgresql&logoColor=FF80B8)
+![Prisma](https://img.shields.io/badge/Prisma-0D1117?style=flat-square&logo=prisma&logoColor=FF80B8)
+![MongoDB](https://img.shields.io/badge/MongoDB-0D1117?style=flat-square&logo=mongodb&logoColor=FF80B8)
+![Docker](https://img.shields.io/badge/Docker-0D1117?style=flat-square&logo=docker&logoColor=FF80B8)
+![PostGIS](https://img.shields.io/badge/PostGIS-0D1117?style=flat-square&logo=postgresql&logoColor=FF80B8)
 
-![OpenAI](https://img.shields.io/badge/AI%20Agents-171522?style=flat-square&logo=openai&logoColor=F0E6FF)
-![LangChain](https://img.shields.io/badge/LangChain-171522?style=flat-square&logo=chainlink&logoColor=8BCF9B)
-![Git](https://img.shields.io/badge/Git-171522?style=flat-square&logo=git&logoColor=F08070)
-![GitHub](https://img.shields.io/badge/GitHub-171522?style=flat-square&logo=github&logoColor=FFFFFF)
+![OpenAI](https://img.shields.io/badge/AI%20Agents-0D1117?style=flat-square&logo=openai&logoColor=FF80B8)
+![LangChain](https://img.shields.io/badge/LangChain-0D1117?style=flat-square&logo=chainlink&logoColor=FF80B8)
+![Git](https://img.shields.io/badge/Git-0D1117?style=flat-square&logo=git&logoColor=FF80B8)
+![GitHub](https://img.shields.io/badge/GitHub-0D1117?style=flat-square&logo=github&logoColor=FF80B8)
 
 </div>
 
----
+<br/>
+
+<div align="center">
+<img src="./assets/pink-divider.svg" width="58%" alt="" />
+</div>
 
 ## featured projects
 
-| Project | What it does |
-| --- | --- |
-| [Hunch](https://github.com/kaverimeshram/hunch) | Evidence-focused product development |
-| [TerraLens](https://github.com/kaverimeshram/terralens) | Satellite imagery and spatial intelligence |
-| [PlantLens AI](https://github.com/kaverimeshram/PlantLensAI) | AI-powered plant identification and diagnosis |
-| [Kept](https://github.com/kaverimeshram/kept) | Social trading accountability |
-| [PACT](https://github.com/kaverimeshram/pact) | Commitments and reputation for AI agents |
-| [Warden](https://github.com/kaverimeshram/Warden-) | Autonomous treasury agent |
-| [feeMON](https://github.com/kaverimeshram/FeeMon-) | Liquid staking concept on Monad |
+<div align="center">
 
----
+| Project | What I'm building |
+|:--:|:--|
+| **[EvolveX](https://github.com/kaverimeshram/Evolvex)** | Autonomous intelligence and continuous evolution |
+| **[KeptCalls](https://github.com/kaverimeshram/kept)** | Social trading with on-chain accountability |
+| **[TerraLens](https://github.com/kaverimeshram/terralens)** | Satellite and spatial intelligence |
+| **[Hunch](https://github.com/kaverimeshram/hunch)** | Evidence-focused product development |
+| **[PlantLens AI](https://github.com/kaverimeshram/PlantLensAI)** | AI-powered plant identification and diagnosis |
+| **[PACT](https://github.com/kaverimeshram/pact)** | Persistent commitments and reputation for agents |
+| **[Warden](https://github.com/kaverimeshram/Warden-)** | Autonomous treasury agent |
+| **[feeMON](https://github.com/kaverimeshram/FeeMon-)** | Liquid staking on Monad |
+
+</div>
 
 ## currently
 
+<div align="center">
+
 ```text
-> building AI + Web3 projects
-> exploring autonomous agents
+> building AI + Web3 products
+> exploring autonomous agents and on-chain systems
 > learning Rust and smart contract development
-> participating in hackathons and open source
+> joining hackathons and open-source projects
 ```
 
----
+</div>
 
 <div align="center">
 
-[![X](https://img.shields.io/badge/X-@_kavericodes-171522?style=flat-square&logo=x&logoColor=FFFFFF)](https://x.com/_kavericodes)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Kaveri%20Meshram-171522?style=flat-square&logo=linkedin&logoColor=80BFFF)](https://www.linkedin.com/in/kaveri-meshram/)
+[![X](https://img.shields.io/badge/X-@_kavericodes-0D1117?style=flat-square&logo=x&logoColor=FF80B8)](https://x.com/_kavericodes)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Kaveri_Meshram-0D1117?style=flat-square&logo=linkedin&logoColor=FF80B8)](https://www.linkedin.com/in/kaveri-meshram/)
 
-<sub>✦ stay curious · keep building · ship often ✦</sub>
+<br/>
+
+<sub><b>✦ stay curious · keep building · ship often ✦</b></sub>
 
 </div>

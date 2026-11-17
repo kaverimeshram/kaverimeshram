@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="205" viewBox="0 0 1000 205">
+<defs><filter id="g"><feGaussianBlur stdDeviation="3" result="b"/><feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge></filter></defs>
+<rect x="2" y="2" width="996" height="201" fill="#0d1117" stroke="#ff77b9" stroke-width="3"/>
+<rect x="3" y="3" width="178" height="199" fill="#14101a"/>
+<path d="M182 3V202" stroke="#ff77b9" stroke-width="3"/>
+<!-- pixel mascot -->
+<g shape-rendering="crispEdges">
+ <g fill="#fce7f2">
+  <rect x="65" y="43" width="49" height="9"/><rect x="54" y="52" width="70" height="12"/><rect x="49" y="64" width="81" height="45"/><rect x="58" y="109" width="63" height="12"/><rect x="64" y="121" width="19" height="23"/><rect x="98" y="121" width="19" height="23"/><rect x="54" y="144" width="30" height="14"/><rect x="97" y="144" width="30" height="14"/>
+ </g>
+ <g fill="#40233a"><rect x="57" y="55" width="64" height="18"/><rect x="49" y="65" width="10" height="30"/><rect x="121" y="65" width="10" height="30"/></g>
+ <g fill="#ff88bf"><rect x="55" y="74" width="17" height="8"/><rect x="106" y="74" width="17" height="8"/><rect x="77" y="103" width="28" height="6"/></g>
+ <g fill="#111019"><rect x="69" y="78" width="7" height="9"/><rect x="106" y="78" width="7" height="9"/></g>
+ <g fill="#ffb9d8"><rect x="27" y="34" width="6" height="6"/><rect x="143" y="38" width="6" height="6"/><rect x="37" y="123" width="5" height="5"/><rect x="142" y="119" width="5" height="5"/></g>
+</g>
+<text x="590" y="125" text-anchor="middle" fill="#ff8ec4" font-family="monospace" font-size="81" font-weight="700" letter-spacing="2" filter="url(#g)">Hello World!</text>
+<text x="590" y="160" text-anchor="middle" fill="#f6c5df" font-family="monospace" font-size="14" letter-spacing="5">INITIALIZING KAVERI.EXE</text>
+</svg>
