@@ -2,7 +2,7 @@
 
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:171126,50:4B267A,100:CB5B9C&height=180&section=header&text=KAVERI%20MESHRAM&fontSize=42&fontColor=F8E9FF&fontAlignY=38&desc=BUILDING%20AT%20THE%20INTERSECTION%20OF%20AI%20%26%20WEB3&descSize=12&descAlignY=60&animation=twinkling" alt="Kaveri Meshram header" />
+<img width="100%" src="./assets/profile-header.svg" alt="Kaveri Meshram profile header" />
 
 ### `> hello_world();`
 
@@ -91,7 +91,7 @@ $ focus --now
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:CB5B9C,50:4B267A,100:171126&height=100&section=footer" width="100%" alt="Footer" />
+<sub>━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━</sub>
 
 <sub>「 stay curious. keep building. 」</sub>
 
