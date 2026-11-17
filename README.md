@@ -10,7 +10,7 @@
 
 <br/>
 
-<img src="./assets/hello-world-exact.webp" width="56%" alt="Pixel art Hello World panel" />
+<img src="./assets/hello-world-final.png" width="56%" alt="Pixel art Hello World panel" />
 
 <p><samp><b>● system online — welcome_</b></samp></p>
 
